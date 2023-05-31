@@ -1,0 +1,5 @@
+streamlit>=0.85.1
+torch
+transformers
+Pillow
+requests
